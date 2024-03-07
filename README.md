@@ -4,7 +4,7 @@
 - 💞️ I’m looking not to collaborate at the moment
 - 📫 How to reach me? Comment on my profile!
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I Just Learned how to remove the underline from <a> tags, it's with a style element!
+- ⚡ Fun fact: I Just Learned how to remove the underline from `<a>` tags, it's with a style element!
 
 <!---
 lapmic5001/lapmic5001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
