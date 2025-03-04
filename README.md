@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lapmic5001
-- 👀 I’m interested in Clicker Games & CYOA Games
+- 👀 I’m interested in Typing Games
 - 🌱 I’m currently learning HTML, Javascript, and CSS
 - 💞️ I’m looking not to collaborate at the moment
 - 📫 How to reach me? Comment on my profile!
